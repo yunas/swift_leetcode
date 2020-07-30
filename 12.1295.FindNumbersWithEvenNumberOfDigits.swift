@@ -57,3 +57,10 @@ let nums = [555,901,482,1771] //Output: 1
 
 let output = sol.findNumbers(nums)
 print(output)
+
+
+
+var mystring = "LRLR"
+for char in mystring{
+print (char)
+}

@@ -52,8 +52,9 @@ class Solution {
 	
 }
 
-//ExcelSheetColumnTitle
+//Write a function that accepts an integer and returns the appropriate Excel Sheet column name
 
+// Forexamaple:
 //# A => 1
 //# Z => 26
 //# AA => 27
@@ -63,10 +64,12 @@ class Solution {
 //# BZ => 78
 //# ZZ => 702
 //# AAA => 703
+//# ZZZ => 18278
+//# AAAA => 18279
 
 
 var sol = Solution()
-var num = 702
+var num = 18278
 let output = sol.getExcelColumnOptimized(num)
 //let number = 65
 print(output)
