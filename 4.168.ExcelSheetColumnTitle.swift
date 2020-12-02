@@ -54,18 +54,18 @@ class Solution {
 
 //Write a function that accepts an integer and returns the appropriate Excel Sheet column name
 
-// Forexamaple:
-//# A => 1
-//# Z => 26
-//# AA => 27
-//# AB => 28
-//# AZ => 52
-//# BA => 53
-//# BZ => 78
-//# ZZ => 702
-//# AAA => 703
-//# ZZZ => 18278
-//# AAAA => 18279
+// Forexample:
+//# 1 => A
+//# 26 => Z
+//# 27 => AA
+//# 28 => AB
+//# 52 => AZ
+//# 53 => BA
+//# 78 => BZ 
+//# 702 => ZZ
+//# 703 => AAA
+//# 18278 => ZZZ
+//# 18279 => AAAA
 
 
 var sol = Solution()
